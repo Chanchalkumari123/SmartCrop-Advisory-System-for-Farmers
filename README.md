@@ -14,14 +14,7 @@
 
 <br/>
 
-[![Author](https://img.shields.io/badge/👨‍💻_Author-Dibakar-4CAF50?style=for-the-badge&logo=github)](https://github.com/ThisIsDibakar)
-[![License](https://img.shields.io/badge/📜_License-MIT-8BC34A?style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/🐍_Python-3.11+-FFD93D?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Django](https://img.shields.io/badge/🎯_Django-5.0-092E20?style=for-the-badge&logo=django)](https://djangoproject.com)
-[![Next.js](https://img.shields.io/badge/⚡_Next.js-14.0-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Redis](https://img.shields.io/badge/🔥_Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![ML](https://img.shields.io/badge/🧠_ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Status](https://img.shields.io/badge/🔥_Status-Active-success?style=for-the-badge)](https://github.com/dibakar/SmartCropAdvisory)
+
 
 <br/>
 
