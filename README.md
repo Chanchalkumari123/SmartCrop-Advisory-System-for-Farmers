@@ -378,7 +378,7 @@ sudo apt install postgresql postgresql-contrib
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/DibVibe/SmartCropAdvisory.git
+git clone https://github.com/Chanchalkumari123/SmartCrop-Advisory-System-for-Farmers.git
 cd SmartCropAdvisory
 
 # 👀 Verify structure
